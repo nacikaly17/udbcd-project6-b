@@ -8,8 +8,8 @@ module.exports = {
     },
     rinkeby: {
       provider: function () {
-        return new HDWalletProvider("spirit supply whale amount human item harsh scare congress discover talent hamster",
-          "https://rinkeby.infura.io/v3/26264308f8d947aab7987f194df1495f")
+        return new HDWalletProvider("used my own for rinkeby deployment",
+          "used my own for rinkeby deployment")
       },
       network_id: '4',
       gas: 4500000,
