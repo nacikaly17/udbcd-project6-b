@@ -105,26 +105,26 @@ Retailer: accounts[3]  0x460c31107dd048e34971e57da2f99f659add4f02
 Consumer: accounts[4]  0xd37b7b8c62be2fdde8daa9816483aebdbd356088
 ```
 #### Select Contract Owner Account on MetaMask :
-```
+
 ![truffle test](images/Select-Account-Metamask.png)
-```
+
 #### Add Farmer :
 Add all actors into Contract:
 *   Add Farmer
 *   Add Distributor
 *   Add Retailer
 *   Add Consumer
-```
+
 ![truffle test](images/Add-Farmer.png)
-```
+
 Transaction History should look something like this:
-```
+
 ![truffle test](images/Add-Actors-History.png)
-```
+
 #### Select Farmer Account on MetaMask :
-```
+
 ![truffle test](images/Select-Farmer-Account.png)
-```
+
 #### Activate Farmer Actions in following order:
 *   Harvest
 *   Process
@@ -143,9 +143,9 @@ Activate Retailer Actions in following order:
 Activate Consumer Actions in following order:
 *   Purchase
 Transaction History should look something like this:
-```
+
 ![truffle test](images/All-Transaction-History.png)
-```
+
 ## Built With
 
 * [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts
