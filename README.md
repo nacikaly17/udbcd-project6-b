@@ -142,7 +142,8 @@ Activate Retailer Actions in following order:
 #### Select Consumer Account on MetaMask :
 Activate Consumer Actions in following order:
 *   Purchase
-Transaction History should look something like this:
+
+Now Transaction History should look something like this:
 
 ![truffle test](images/All-Transaction-History.png)
 
